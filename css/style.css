@@ -53,16 +53,16 @@
 }
 .body_f .float2 {
     float: right;
-    width: 50%;
+    width: 45%;
     height: auto;
     color: #fff;
-    font-size: 45px;
-    margin-top: 150px;
+    font-size: 40px;
+    margin-top: 170px;
     margin-left: 10px;
     font-family: 'MTNBrighterSans-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .float2 h3 {
-    font-size: 40px;
+    font-size: 35px;
 }
 .bod .card {
     width: 230px;
@@ -71,7 +71,7 @@
     border-radius: 30px;
     margin-top: 60px;
     margin-left: 230px;
-    box-shadow: 5px 5px 2px black;
+    box-shadow: 2px 2px 2px 1px black;
 }
 .bod .card .card_sm {
     width: 230px;

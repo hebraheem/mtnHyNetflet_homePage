@@ -138,3 +138,24 @@
 .footer a {
     color: #0563c1;
 }
+/* ************responsive*********** */
+ @media (max-width: 900px){
+     * {
+         margin: 0px;
+         padding: 0px;
+     }
+    .body_f {
+        width: 100%;
+        height: auto;
+    }
+     .float1 .card {
+        margin-left: auto;
+        margin-right: auto;
+        height: 290px;
+    }
+    .footer {
+        height: auto;
+        width: 100%;
+    }
+
+ }

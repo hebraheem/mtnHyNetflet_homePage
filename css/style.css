@@ -37,10 +37,14 @@
     text-align: center;
     padding-top: 17px;
     color: #fff;
+    font-family: 'MTNBrighterSans-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 }
 .bod p a {
     text-decoration: none;
     color: white;
+    font-family: 'MTNBrighterSans-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 }
 
 .bod p a:hover {
@@ -107,6 +111,8 @@
     height: 35px;
     padding-left: 15px;
     outline: none;
+    font-family: 'MTNBrighterSans-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 }
 .card .button {
     background-color: #ffcc00;
@@ -117,6 +123,8 @@
     width: 180px;
     border: #ffcc00 solid;
     outline: none;
+    font-family: 'MTNBrighterSans-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 }
 .footer {
     background-color: #eeeeee;
